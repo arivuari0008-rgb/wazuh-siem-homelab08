@@ -3,6 +3,7 @@
 A self-built, segmented home lab used to deploy and administer a Wazuh SIEM for real-time log
 monitoring, incident triage, and troubleshooting across a multi-OS network — built to practice
 the day-to-day work of a SOC Analyst.
+<img src="architecture-diagram.svg" width="800">
 
 ## Overview
 
